@@ -1,0 +1,9 @@
+# Python & virtuaaliympäristöt
+.venv/
+venv/
+ENV/
+*.pyc
+__pycache__/
+
+# Jupyter Notebookin väliaikaistiedostot
+.ipynb_checkpoints/
